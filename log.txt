@@ -1,0 +1,46 @@
+2020/09/13 14:13:46 Purchased tsla stock at $500.0, since its higher that the current price ($112.0)
+2020/09/13 14:15:31 Purchased tsla stock at $500.0, since its higher that the current price ($112.0)
+2020/09/13 14:15:39 Purchased aapl stock at $500.0, since its higher that the current price ($112.0)
+2020/09/13 14:19:52 Purchased tsla stock at $500.0, since its higher that the current price ($112.0)
+2020/09/13 14:19:57 Purchased tsla stock at $200.0, since its higher that the current price ($112.0)
+2020/09/13 14:20:04 Bid for tsla was $100.0 but the stock price is $112.0, no purchase was made.
+2020/09/13 14:20:04 Couldn't buy stock
+2020/09/13 14:21:06 Bid for tsla was $100.0 but the stock price is $112.0, no purchase was made.
+2020/09/13 14:21:06 Couldn't buy stock
+2020/09/13 14:22:17 Purchased tsla stock at $200.0, since its higher that the current price ($112.0)
+2020/09/13 14:22:22 Bid for tsla was $100.0 but the stock price is $112.0, no purchase was made.
+2020/09/13 14:22:32 Bid for tsla was $-1.0 but the stock price is $112.0, no purchase was made.
+2020/09/13 14:22:39 Bid for fing was $100.0 but the stock price is $112.0, no purchase was made.
+2020/09/13 14:23:15 Bid for aapl was $100.0 but the stock price is $112.0, no purchase was made.
+2020/09/13 14:28:32 Purchased aapl stock at $200.0, since its higher that the current price ($112.0)
+2020/09/13 14:28:33 Stock purchased: 200.0 aapl
+2020/09/13 14:31:39 Purchased goog stock at $200.0, since its higher that the current price ($112.0)
+2020/09/13 14:31:39 Stock purchased: 200.0 goog
+2020/09/13 14:32:04 Purchased GOOG stock at $200.0, since its higher that the current price ($112.0)
+2020/09/13 14:32:04 Stock purchased: 200.0 GOOG
+2020/09/13 14:37:16 Purchased GOOG stock at $200.0, since its higher that the current price ($112.0)
+2020/09/13 14:37:16 Stock purchased: 200.0 GOOG
+2020/09/13 14:45:10 Purchased GOOG stock at $200.0, since its higher that the current price ($112.0)
+2020/09/13 14:45:10 Stock purchased: 200.0 GOOG
+2020/09/13 14:52:56 Error: Index 5 out of range [0..5)
+2020/09/13 14:53:14 Purchased GOOG stock at $200.0, since its higher that the current price ($112.0)
+2020/09/13 14:53:14 Stock purchased: 200.0 GOOG
+2020/09/13 14:56:36 Purchased GOOG stock at $200.0, since its higher that the current price ($112.0)
+2020/09/13 14:56:36 Stock purchased: 200.0 GOOG
+2020/09/13 14:57:12 Purchased GOOG stock at $200.0, since its higher that the current price ($112.0)
+2020/09/13 14:57:12 Stock purchased: 200.0 GOOG
+2020/09/13 14:59:24 Purchased GOOG stock at $200.0, since its higher that the current price ($112.0)
+2020/09/13 14:59:24 Stock purchased: 200.0 GOOG
+2020/09/13 15:00:34 Bid for GOOG was $200.0 but the stock price is $1520.72, no purchase was made.
+2020/09/13 15:00:34 Stock NOT purchased: 200.0 GOOG
+2020/09/13 15:00:43 Error: Stock not found
+2020/09/13 15:00:55 Error: Stock not found
+2020/09/13 15:01:07 Error: Stock not found
+2020/09/13 15:01:30 Bid for goog was $200.0 but the stock price is $1520.72, no purchase was made.
+2020/09/13 15:01:30 Stock NOT purchased: 200.0 goog
+2020/09/13 15:01:41 Bid for amzn was $200.0 but the stock price is $3116.22, no purchase was made.
+2020/09/13 15:01:41 Stock NOT purchased: 200.0 amzn
+2020/09/13 15:02:22 Bid for amzn was $500.0 but the stock price is $3116.22, no purchase was made.
+2020/09/13 15:02:22 Stock NOT purchased: 500.0 amzn
+2020/09/13 15:02:31 Purchased amzn stock at $3500.0, since its higher that the current price ($3116.22)
+2020/09/13 15:02:31 Stock purchased: 3500.0 amzn
